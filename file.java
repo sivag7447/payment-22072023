@@ -1,3 +1,4 @@
+a=100
 merge concept
   
   deleting lines 
